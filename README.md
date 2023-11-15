@@ -1,4 +1,4 @@
-# [Material Dashboard Angular - Free Bootstrap Material Design Admin](https://www.josefsosa.com/product/material-dashboard-angular2)[![version][version-badge]][CHANGELOG]
+# [Material Dashboard Angular - Free Bootstrap Material Design Admin](https://www.josefsosa.com/product/material-dashboard-angular2)
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-angular/material-dashboard-angular.gif)
 
